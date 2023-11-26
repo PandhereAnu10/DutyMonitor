@@ -53,6 +53,7 @@ and order in the society.
 
 ## Architectural Design :
 
+<img src="https://github.com/PandhereAnu10/DutyMonitor/blob/master/Architecure_DutyMonitor.PNG" alt="Architecture" width="800" height="350" />
 
 ## Testing :
 <b>API Testing</b>
