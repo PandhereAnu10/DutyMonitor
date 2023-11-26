@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Duty_Monitor</string>
+    <string name="dutymonitor">DutyMonitor</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="sign_in_to_continue">Sign In to Continue...</string>
+    <string name="username_email">Username/Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_admin">Admin</string>
+    <string name="btn_employee">Employee</string>
+    <string name="btn_capture">Capture Image</string>
+    <string name="btn_upload">Upload Image</string>
+    <string name="btn_retrieve">Retrieve Record</string>
+    <string name="btn_image">Image Data</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
