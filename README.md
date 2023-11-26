@@ -51,6 +51,10 @@ the policing of bandobast duties. It provides a reliable and automated method fo
 movements and ensures they stay at their assigned posts, ultimately contributing to improved law 
 and order in the society.
 
+## Languages and Tools :
+
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://cloud.google.com/apis" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="Cloud API" width="50" height="50"/> </a> <a href="https://docs.google.com/spreadsheets/create" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel Sheet" width="50" height="50"/> </a> 
+
 ## Architectural Design :
 
 <img src="https://github.com/PandhereAnu10/DutyMonitor/blob/master/Architecure_DutyMonitor.PNG" alt="Architecture" width="800" height="350" />
