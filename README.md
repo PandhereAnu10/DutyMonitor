@@ -56,9 +56,15 @@ and order in the society.
 <img src="https://github.com/PandhereAnu10/DutyMonitor/blob/master/Architecure_DutyMonitor.PNG" alt="Architecture" width="800" height="350" />
 
 ## Testing :
-<b>API Testing</b>
+<b>API</b>
+
+<img src="https://github.com/PandhereAnu10/DutyMonitor/blob/master/API_DutyMonitor.PNG" width="300" height="500" />
 
 ## Output / Screenshots :
+
+<img src="https://github.com/PandhereAnu10/DutyMonitor/blob/master/OP1.jfif" width="500" height="500" />
+<img src="https://github.com/PandhereAnu10/DutyMonitor/blob/master/OP2.jfif" width="500" height="500" />
+<img src="https://github.com/PandhereAnu10/DutyMonitor/blob/master/OP3.jfif" width="500" height="500" />
 
 
 
